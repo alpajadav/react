@@ -1,0 +1,19 @@
+body {
+  background: #763271;
+  margin: 0 auto;
+  padding: 0;
+}
+
+#root {
+  background: #e4e4e4;
+  border: 1px solid #e4e4e4;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.test {
+  color: #000;
+  font-size: 35px;
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
